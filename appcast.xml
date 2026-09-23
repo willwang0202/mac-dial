@@ -6,6 +6,17 @@
         <description>mac-dial release updates</description>
         <language>en</language>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Tue, 22 Sep 2026 19:08:56 -0700</pubDate>
+            <link>https://willwang0202.github.io/mac-dial/</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://willwang0202.github.io/mac-dial/mac-dial-1.2.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/willwang0202/mac-dial/releases/download/v1.2.1/mac-dial-1.2.1.dmg" length="2483550" type="application/octet-stream" sparkle:edSignature="dplLhDrbU2obKsxqxzCaAf3//7pKGgkE+6oLdwKIi2bN1qyfLzYXP7gL2Wy480GHG3Vi5xJvssBzL4ACqZWoCQ=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Tue, 22 Sep 2026 16:05:57 -0700</pubDate>
             <link>https://willwang0202.github.io/mac-dial/</link>
