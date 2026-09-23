@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>mac-dial updates</title>
-    <link>https://willwang0202.github.io/mac-dial/</link>
-    <description>mac-dial release updates</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>mac-dial updates</title>
+        <link>https://willwang0202.github.io/mac-dial/</link>
+        <description>mac-dial release updates</description>
+        <language>en</language>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 22 Sep 2026 16:05:57 -0700</pubDate>
+            <link>https://willwang0202.github.io/mac-dial/</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://willwang0202.github.io/mac-dial/mac-dial.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/willwang0202/mac-dial/releases/download/v1.2.0/mac-dial.dmg" length="1697296" type="application/octet-stream" sparkle:edSignature="nl3uOdYOC08fPi6z95iqlANzvpgJjUD+++a7tdnNfjeDk8oR0MYFGs5JcUo6MqAMh+vMT+gRS7LVrgMaWLgdCA=="/>
+        </item>
+    </channel>
 </rss>
